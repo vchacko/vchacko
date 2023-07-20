@@ -22,7 +22,7 @@ Developer - ETL - DataBricks - Servent Leader - Coach - Mentor
 
 Welcome to my GitHub profile! Here, you will find a collection of my coding projects, contributions to open-source repositories, and explorations into the world of software development. As a passionate and dedicated developer, I am constantly seeking opportunities to learn, grow, and share my knowledge with the community. Throughout my journey, I have embraced various programming languages, frameworks, and technologies, each contributing to my ever-expanding skill set. I believe in the power of collaboration and the impact of open-source contributions, and I am committed to being an active participant in the developer community. I invite you to explore my repositories and witness my commitment to clean, efficient, and well-documented code. Whether it's building innovative applications, solving complex challenges, or simply experimenting with new ideas, I am driven by a thirst for knowledge and a desire to create meaningful solutions. Thank you for visiting my GitHub profile. Let's connect, collaborate, and make a positive impact together in the exciting world of software development. Happy coding!
 
-*   🔭 I’m currently working @ nuvento Inc
+*   🔭 I’m currently working at Nuvento Inc
 *   🌍  I'm based in Kochi, Kerala, India
 *   🖥️  See my portfolio at [Varghese Chacko](http://varghesec.com)
 *   ✉️  You can contact me at [github@varghesec.com](mailto:github@varghesec.com)
@@ -44,8 +44,6 @@ Welcome to my GitHub profile! Here, you will find a collection of my coding proj
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
