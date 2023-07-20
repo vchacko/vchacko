@@ -28,7 +28,9 @@ Welcome to my GitHub profile! Here, you will find a collection of my coding proj
 *   ✉️  You can contact me at [github@varghesec.com](mailto:github@varghesec.com)
 *   🧠  I'm learning DataBricks
 *   🤝  I'm open to collaborating on IoT-ETL
-*   ⚡  Certified in entrepreneurship and Business modelling from Coursera,### Skills 
+*   ⚡  Certified in entrepreneurship and Business modelling from Coursera,
+  
+  ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/perl-colored.svg" width="36" height="36" alt="Perl" /></a>
