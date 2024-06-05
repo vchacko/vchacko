@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Here, you will find a collection of my coding proj
 *   🖥️  See my portfolio at [Varghese Chacko](https://www.linkedin.com/in/varghese-chacko/)
 *   🤝  I'm open to collaborating on IoT-ETL
 *   ⚡  Certified in entrepreneurship and Business modelling from Coursera,
-*   🧠 My blogs -0 [Jot Lore](https://www.linkedin.com/newsletters/jot-lore-7087448501311135744/)
+*   🧠 My blogs - [Jot Lore](https://www.linkedin.com/newsletters/jot-lore-7087448501311135744/)
   
   ### Skills 
 <p align="left">
