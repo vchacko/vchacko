@@ -14,20 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-CodeCraftsman: Crafting Innovative Solutions in the World of Software Development
+Experienced Technology Leader and Hands-On Developer | Aspiring Technical Author/CTO
 ==================================================================================
 
-Developer - ETL - DataBricks - Servent Leader - Coach - Mentor
---------------------------------------------------------------
+Technology Strategy | DevOps Automation | IoT Solutions | Cybersecurity | Project Management | Agile Methodologies | Team Leadership | Technical Consulting | Innovation and R&D | Aspiring CTO | Author
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Welcome to my GitHub profile! Here, you will find a collection of my coding projects, contributions to open-source repositories, and explorations into the world of software development. As a passionate and dedicated developer, I am constantly seeking opportunities to learn, grow, and share my knowledge with the community. Throughout my journey, I have embraced various programming languages, frameworks, and technologies, each contributing to my ever-expanding skill set. I believe in the power of collaboration and the impact of open-source contributions, and I am committed to being an active participant in the developer community. I invite you to explore my repositories and witness my commitment to clean, efficient, and well-documented code. Whether it's building innovative applications, solving complex challenges, or simply experimenting with new ideas, I am driven by a thirst for knowledge and a desire to create meaningful solutions. Thank you for visiting my GitHub profile. Let's connect, collaborate, and make a positive impact together in the exciting world of software development. Happy coding!
 
 *   🔭 I’m currently working at Nuvento Inc
 *   🌍  I'm based in Kochi, Kerala, India
 *   🖥️  See my portfolio at [Varghese Chacko](https://www.linkedin.com/in/varghese-chacko/)
-*   🧠  I'm learning DataBricks
 *   🤝  I'm open to collaborating on IoT-ETL
 *   ⚡  Certified in entrepreneurship and Business modelling from Coursera,
+*   🧠 My blogs -0 [Jot Lore](https://www.linkedin.com/newsletters/jot-lore-7087448501311135744/)
   
   ### Skills 
 <p align="left">
