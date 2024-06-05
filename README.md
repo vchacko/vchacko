@@ -24,8 +24,7 @@ Welcome to my GitHub profile! Here, you will find a collection of my coding proj
 
 *   🔭 I’m currently working at Nuvento Inc
 *   🌍  I'm based in Kochi, Kerala, India
-*   🖥️  See my portfolio at [Varghese Chacko](http://varghesec.com)
-*   ✉️  You can contact me at [github@varghesec.com](mailto:github@varghesec.com)
+*   🖥️  See my portfolio at [Varghese Chacko](https://www.linkedin.com/in/varghese-chacko/)
 *   🧠  I'm learning DataBricks
 *   🤝  I'm open to collaborating on IoT-ETL
 *   ⚡  Certified in entrepreneurship and Business modelling from Coursera,
